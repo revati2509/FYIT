@@ -2,10 +2,12 @@
 void main()
 {
 printf("Welcome to horizon 2k19");
+printf("hello");
 int a,b,c,d;
 printf("Enter a value of a:",a);
 scanf("%d",&a);
 printf("Enter a value of b:",b);
+
 scanf("%d",&b);
 c=a+b;
 d=a-b;
