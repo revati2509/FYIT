@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+printf("Welcome to horizon 2k19");
+int a,b,c,d;
+printf("Enter a value of a:",a);
+scanf("%d",&a);
+printf("Enter a value of b:",b);
+scanf("%d",&b);
+c=a+b;
+d=a-b;
+printf("The addition is:%d";c);
+printf("The substraction is:%d";d);
+getch();
+}
